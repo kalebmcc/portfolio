@@ -58,6 +58,7 @@ img{
 .button-holder{
     display: flex;
     justify-content: center;
+    gap: 20px;
 }
 
 .website{
