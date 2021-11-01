@@ -7,10 +7,13 @@ export default function Footer() {
         <div className='footer'>
             <div className='links'>
                 <div className='git'>
+                    <a href='https://www.linkedin.com/in/kaleb-mccullough/' target='_blank'>
                     <GithubOutlined style={{fontSize:'25px'}}/>
+                    </a>
                 </div>
                 <div className='linkedin'>
-                    <LinkedinOutlined style={{fontSize:'25px'}}/>
+                    <a href='https://www.linkedin.com/in/kaleb-mccullough/' target='_blank'>
+                    <LinkedinOutlined style={{fontSize:'25px'}}/></a>
                 </div>
             </div>
         </div>
