@@ -1,0 +1,14 @@
+.background{
+    color:#4B6587
+}
+
+h2{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.background-container{
+    display:flex;
+    justify-content: center;
+    margin: 0 20% 45px 20%;
+}

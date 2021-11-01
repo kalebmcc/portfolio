@@ -1,0 +1,12 @@
+.footer{
+    background-color: #F0E5CF;
+    color: #4B6587;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    padding-top: 10px;
+
+}

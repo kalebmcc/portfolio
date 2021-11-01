@@ -1,0 +1,44 @@
+.resume{
+    color:#4B6587
+}
+
+h2{
+    padding-top: 5%;
+    text-align: center;
+}
+
+
+#resume-img{
+    width: 40%;
+    height: auto;
+}
+
+.download{
+    height:fit-content;
+    align-self: center;
+    font-size: 48px;
+    background-color: transparent;
+    border: none;
+    color: #4B6587;
+    text-decoration: none;
+}
+
+.download:hover{
+    height:fit-content;
+    align-self: center;
+    font-size: 48px;
+    background-color: #4B6587;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+@media (max-width:650px){
+
+.download-container{
+    display: flex;
+    justify-content: center;
+}    
+
+}

@@ -1,0 +1,39 @@
+.home{
+    display: flex;
+    height: fit-content;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.text{
+  color: #4B6587;
+  padding-top: 125px;
+}
+
+.text p{
+    padding-left: 60px;
+    
+}
+
+
+
+.profile-img{
+  border-radius: 50% !important;
+  margin-top: 75px;
+}
+
+@media (max-width:650px){
+.container{
+  display:inline;
+
+}
+.profile-img{
+  border-radius: 50% !important;
+  margin-top: 75px;
+  display: block;
+  margin: 0 auto;
+}
+}

@@ -1,0 +1,17 @@
+
+
+.skills{
+    background-color: #4B6587;
+    height: fit-content;
+    color: white;
+}
+
+.skills h2{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.lists{
+    display: flex;
+    justify-content: space-around;
+}
