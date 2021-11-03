@@ -13,7 +13,7 @@ export default function Projects() {
                 <div className="text-container">
                     <h2>Dinner Dash</h2>
                     <div className='button-holder'>
-                    <a className="website" href='https://dinnerdashproject.herokuapp.com/' target="_blank">SITE</a>
+                    <a className="website" href='https://dinnerdashproject.herokuapp.com/' target="_blank">VIEW</a>
                     <a className="website" href='https://github.com/kalebmcc/DinnerDash' target="_blank">REPO</a>
                     </div>
                     <p>Dinner Dash is a full-stack application that is able to allow for multiple users to all share their favorite recipes with each other. Each user is able to edit and delete their own posts with the authorization token from Django. </p><br />
