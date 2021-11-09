@@ -71,7 +71,7 @@ export default function Projects() {
                     <a className="website" href='https://parkpassadventure.netlify.app/' target="_blank">VIEW</a>
                     <a className="website" href='https://github.com/kalebmcc/Simon_Game' target="_blank">REPO</a>
                     </div>
-                    <p>ParkPass is a full-stack application that allows a user to search through a database of national parks and save them. When saved, a park will be added to a user’s page and displayed as a card. Users can then check off if they’ve hiked at the selected park.</p><br />
+                    <p>This Simon Game was created to allow the user to play a basic color matching game. I am especially proud of this project, because I coded all of the javascript myself. This was a project that I attempted within several weeks of learning the basics of Javascript.</p><br />
                     <h4>Technologies Used:</h4>
                         <p>HTML, CSS, and Javascript</p>
 
