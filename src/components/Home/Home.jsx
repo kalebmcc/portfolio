@@ -7,12 +7,10 @@ export default function Home() {
             <div className='container'>
                  <img className='profile-img' alt='profile photo' src='https://ca.slack-edge.com/T0351JZQ0-U029XL68BRQ-cfa6d40a8e95-512'/>
                 <div className='text'>
-                    <h2>-->Software Engineer</h2>
-                    <p><em>console.log("<strong>Technology has always been a big part of my life. I have a talent for merging creativity with technical fields and understanding complex ideas. I convey this in everything from audio, video, and software development.</strong>")</em></p>
+                    <h2>Hi,<br/>My passion is merging creativity and tech.</h2>
+                    <p><strong>This is How:</strong></p>
                 </div>
-                <div>
            
-            </div>
             </div>
         </div>
     )

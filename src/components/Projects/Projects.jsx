@@ -63,7 +63,7 @@ export default function Projects() {
             </div>
             <div className='project1'>
                 <div>
-                    <img className='parkpassimg' src={Simongameimg}/>
+                    <img className='simonimg' src={Simongameimg}/>
                 </div>
                 <div className="text-container">
                     <h2>Simon Game</h2>
