@@ -8,19 +8,19 @@ import Background from './components/Background/Background';
 import Resume from './components/Resume/Resume';
 
 function App() {
+	
 
-
-  return (
-    <div className="App">
-      <Header/>
-      <Home/>
-      <Projects/>
-      <Resume/>
-      <Skills/>
-      <Background/>
-      <Footer/>
-    </div>
-  );
+	return (
+		<div className='App'>
+			<Header />
+			<Home />
+			<Projects />
+			<Resume />
+			<Skills />
+			<Background />
+			<Footer />
+		</div>
+	);
 }
 
 export default App;
