@@ -6,7 +6,8 @@ import { GithubOutlined } from '@ant-design/icons'
 export default function Header() {
     return (
         <div className='header'>
-            <h1>Kaleb McCullough // <em>Developer</em></h1>
+            <span className="desktop-header"><h1>Kaleb McCullough // <em>Developer</em></h1></span>
+            <span className="mobile-header"><h1>KM</h1></span>
             
             
             <div className="icons">
